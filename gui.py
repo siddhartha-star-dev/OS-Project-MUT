@@ -1,3 +1,5 @@
+import matplotlib
+matplotlib.use('Agg')
 from tkinter import Tk,Frame,Button
 import os
 import subprocess
